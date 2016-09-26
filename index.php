@@ -1,3 +1,3 @@
 <?php>
-	echo "This was a change made at 6:14 Monday September 26.";
+	echo "IS218-101: Bulding Web Applications";
 ?>
